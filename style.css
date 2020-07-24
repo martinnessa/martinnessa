@@ -1,0 +1,16 @@
+html, body {
+    background-color: #f2f0ec;
+    height: 100%;
+    margin: 0;
+    line-height: 16px;
+    font-weight: 400;
+    font-family: helvetica neue;
+}
+
+.header {
+    margin-top: 20px;
+    line-height: 16px;
+    text-align: center;
+    font-size: 1.3em;
+    
+}
